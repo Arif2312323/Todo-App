@@ -1,5 +1,5 @@
 This is a Simple to-do application
-It hast the following features-
+It has the following features-
 
 -Create a new todo task
 -See all existing todo tasks
